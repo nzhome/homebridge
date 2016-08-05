@@ -8,10 +8,8 @@ npm-debug.log
 .node-version
 
 # VS2015 NodeJS Tools v1.2
-homebridge.njsproj
-homebridge.sln
-obj/
-.vs/
+#homebridge.njsproj
+#homebridge.sln
 
 # Ignore any extra plugins in the example directory that aren't in Git already
 # (this is a sandbox for the user)
